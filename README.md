@@ -1,0 +1,2 @@
+# Image_to_catalogue
+AI_MODEL_IMAGE_PROCESSING
